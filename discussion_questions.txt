@@ -1,0 +1,27 @@
+
+Recursion
+
+    In your own words, what is recursion?
+
+        Recursion is when a function calls itself in order to complete an operation. 
+
+    Why is it necessary to have a base case?
+
+        If you do not have a base case the function will continue to call itself and will not return a value. 
+
+
+
+Graphs
+
+    What is a graph?
+
+        A graph is a data structure containing nodes and edges that specifies relationships among a group of items. 
+
+    How is a graph different from a tree?
+
+        A graph unlike trees is cyclical and is non-directional. 
+
+    Give an example of something that would be good to model with a graph.
+
+        It would be good to model organizational relationships with a graph or college major paths. 
+
